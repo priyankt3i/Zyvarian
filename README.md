@@ -57,6 +57,7 @@ Zyvarian is a constructed language (conlang) designed to be logical, expressive,
 
 **1. Alphabet & Pronunciation** 
 Zyvarian has 16 core letters, each representing a distinct sound.
+
 | Letter | Pronunciation (IPA) | Example (English Equivalent) | 
 | --- | --- | --- | 
 | A | /a/ | "car" | 
@@ -87,7 +88,9 @@ Zyvarian has 16 core letters, each representing a distinct sound.
 
 ---
 
-**3. Nouns & Pronouns** **Personal Pronouns** | English | Zyvarian | 
+**3. Nouns & Pronouns** **Personal Pronouns** 
+
+| English | Zyvarian | 
 | --- | --- | 
 | I / Me | Mira | 
 | You | Tira | 
@@ -98,11 +101,14 @@ Zyvarian has 16 core letters, each representing a distinct sound.
 
 ---
 
-**4. Verb Conjugation** Verbs do **not**  change based on person or number. Instead, they take **tense markers**  at the end:| Tense | Suffix | Example ("Luko" = to eat) | 
+**4. Verb Conjugation** Verbs do **not**  change based on person or number. Instead, they take **tense markers**  at the end:
+
+| Tense | Suffix | Example ("Luko" = to eat) | 
 | --- | --- | --- | 
 | Past | -et | Mira Luko zet. (I ate.) | 
 | Present | -in | Mira Luko zin. (I eat.) | 
 | Future | -ul | Mira Luko zul. (I will eat.) | 
+
 **Negation** To negate a sentence, insert **"No"**  before the verb: 
 - **"I don’t eat."**  → **"Mira No Luko zin."**
  
@@ -131,7 +137,9 @@ Zyvarian has 16 core letters, each representing a distinct sound.
 
 ---
 
-**6. Common Vocabulary** | English | Zyvarian | 
+**6. Common Vocabulary** 
+
+| English | Zyvarian | 
 | --- | --- | 
 | Water | Vinu | 
 | Food | Luko | 
@@ -311,7 +319,9 @@ Here’s the **detailed progress**  on Zyvarian so far:
 
 ---
 
-**1. Alphabet & Pronunciation**  ✅ **(Completed)** Zyvarian has **16 core letters**  with unique sounds.| Letter | Pronunciation (IPA) | Example (English Equivalent) | 
+**1. Alphabet & Pronunciation**  ✅ **(Completed)** Zyvarian has **16 core letters**  with unique sounds.
+
+| Letter | Pronunciation (IPA) | Example (English Equivalent) | 
 | --- | --- | --- | 
 | A | /a/ | "car" | 
 | E | /e/ | "bet" | 
@@ -329,6 +339,7 @@ Here’s the **detailed progress**  on Zyvarian so far:
 | Z | /z/ | "zebra" | 
 | N | /n/ | "name" | 
 | P | /p/ | "pen" | 
+
 **Extra Notes:** 
 - No silent letters
 
@@ -343,11 +354,14 @@ Here’s the **detailed progress**  on Zyvarian so far:
 - **"I love you."**  → **Mira Tira Zare zin.**
  
 - **"She eats an apple."**  → **Ela Poma Luko zin.**
-**Tenses** | Tense | Suffix | Example (Luko = to eat) | 
+**Tenses**
+
+| Tense | Suffix | Example (Luko = to eat) | 
 | --- | --- | --- | 
 | Past | -et | Mira Luko zet. (I ate.) | 
 | Present | -in | Mira Luko zin. (I eat.) | 
 | Future | -ul | Mira Luko zul. (I will eat.) | 
+
 **Negation**  
 - **"I don’t eat."**  → **Mira No Luko zin.**
  
@@ -360,7 +374,9 @@ Here’s the **detailed progress**  on Zyvarian so far:
 
 ---
 
-**3. Dictionary**  **(In Progress, 150+ words so far, goal: 500+ words)** | English | Zyvarian | 
+**3. Dictionary**  **(In Progress, 150+ words so far, goal: 500+ words)** 
+
+| English | Zyvarian | 
 | --- | --- | 
 | Water | Vinu | 
 | Food | Luko | 
@@ -372,6 +388,7 @@ Here’s the **detailed progress**  on Zyvarian so far:
 | Slow | Luma | 
 | Big | Gor | 
 | Small | Pik | 
+
 ✅ **Categorizing words**  (Nouns, Verbs, Adjectives, Phrases)
 ✅ **Adding example sentences** 
 
@@ -559,7 +576,9 @@ Here’s the new **Base-16**  number system for Zyvarian, using **0-9 and A-F** 
 
 ---
 
-**Zyvarian Base-16 Numbers** | Decimal | Zyvarian | 
+**Zyvarian Base-16 Numbers** 
+
+| Decimal | Zyvarian | 
 | --- | --- | 
 | 0 | ⬢ | 
 | 1 | ⬣ | 
@@ -600,7 +619,9 @@ Got it! I see your point. The goal is to make the numbers both **distinct and ea
 
 ---
 
-**New Zyvarian Base-16 Numbers (Distinct & Easy to Write)** | Decimal | Zyvarian | 
+**New Zyvarian Base-16 Numbers (Distinct & Easy to Write)** 
+
+| Decimal | Zyvarian | 
 | --- | --- | 
 | 0 | ⧫ | 
 | 1 | ⧠ | 
