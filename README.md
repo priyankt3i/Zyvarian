@@ -1213,7 +1213,7 @@ STDOUT/STDERR
   fig.canvas.print_figure(bytes_io, **kw)
 ```
 
-<img align="center" width="800" alt="literals" src="./public/literals.jpg">
+<img align="center" width="800" alt="literals" src="./public/literals.JPG">
 
 ![Output image](https://files.oaiusercontent.com/file-AcdUCAnFb734jms6miWimx?se=2025-01-30T16%3A10%3A02Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6dc9a68f-53dc-487e-9842-780e858bb2b7&sig=9/9GDxU4t5UK5LoLsKxC45AE1e84M49OdXSFL0ohCd0%3D) 
 
