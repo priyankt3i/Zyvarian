@@ -1211,6 +1211,9 @@ STDOUT/STDERR
   fig.canvas.print_figure(bytes_io, **kw)
 ```
 ![Output image](https://files.oaiusercontent.com/file-AcdUCAnFb734jms6miWimx?se=2025-01-30T16%3A10%3A02Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6dc9a68f-53dc-487e-9842-780e858bb2b7&sig=9/9GDxU4t5UK5LoLsKxC45AE1e84M49OdXSFL0ohCd0%3D) 
+
+<img align="left" width="500" alt="programmer" src="./public/DALL·E 2025-01-30 11.14.24 - A complete set of custom-designed numerals for the constructed language Zyvarian, optimized for Base 16 (hexadecimal). The numerals should be visually.webp">
+
 Here is the refined **Zyvarian numeral system** , mapped to English numerals (0-9, A-F).Each symbol is:
 ✔ **Easily distinguishable** 
 ✔ **Quick to write with a pen in a single stroke** 
