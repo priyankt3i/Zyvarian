@@ -1141,6 +1141,8 @@ I'll refine the Zyvarian numerals to ensure they are:
 ✅ **Consistent with the overall geometric/runic aesthetic** Give me a moment while I generate the updated numerals in **Base 16**  (0-9 and A-F).
 ![A complete set of custom-designed numerals for the constructed language Zyvarian, optimized for Base 16 (hexadecimal). The numerals should be visually distinct, easy to write with a pen in a single stroke, and maintain a geometric and slightly runic aesthetic. The numbers should be labeled from 0 to F, ensuring they are clear and well-spaced. The design should balance human readability with a futuristic yet ancient symbolic look.](https://files.oaiusercontent.com/file-6sFzDue5wWW3466429dL2V?se=2025-01-30T16%3A10%3A01Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc403e1bc-ef3f-414b-b2e5-04d3a660ad6e.webp&sig=ED/s0MwppvnO2SplDZUZUZ%2BzNkj7TbaleET/wPz9WcU%3D) 
 
+<img align="center" width="800" alt="programmer" src="./public/DALL·E 2025-01-30 11.14.24 - A complete set of custom-designed numerals for the constructed language Zyvarian, optimized for Base 16 (hexadecimal). The numerals should be visually.webp">
+
 Here is the updated **Zyvarian numeral system**  in **Base 16**  (0-9 and A-F). These numerals are designed to be: 
 - **Distinct and easy to differentiate**
  
@@ -1211,8 +1213,6 @@ STDOUT/STDERR
   fig.canvas.print_figure(bytes_io, **kw)
 ```
 ![Output image](https://files.oaiusercontent.com/file-AcdUCAnFb734jms6miWimx?se=2025-01-30T16%3A10%3A02Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D6dc9a68f-53dc-487e-9842-780e858bb2b7&sig=9/9GDxU4t5UK5LoLsKxC45AE1e84M49OdXSFL0ohCd0%3D) 
-
-<img align="center" width="800" alt="programmer" src="./public/DALL·E 2025-01-30 11.14.24 - A complete set of custom-designed numerals for the constructed language Zyvarian, optimized for Base 16 (hexadecimal). The numerals should be visually.webp">
 
 Here is the refined **Zyvarian numeral system** , mapped to English numerals (0-9, A-F).Each symbol is:
 ✔ **Easily distinguishable** 
