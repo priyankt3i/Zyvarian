@@ -1753,7 +1753,7 @@ Now the **Transliteration**  column represents the Zyvarian words using a Romani
 
 **You**: 
 
-wait i see dicrepancies: earlier you the Zyvarian word for Love is Zare. Here in this example you are just straight up ripping off English. Love in English is 𐓧𐓘𐓪𐓷 which is pronounced as lov ? Wow very original. Did you forget what you said earlier? Here is a chat from **You**: ChatGPT:
+wait i see dicrepancies: earlier you the Zyvarian word for Love is Zare. Here in this example you are just straight up ripping off English. Love in English is 𐓧𐓘𐓪𐓷 which is pronounced as lov ? Wow very original. Did you forget what you said earlier? Here is a chat from **You**: **ChatGPT**: 
 
 Absolutely! Here’s a brand-new language, which I'll call "Zyvarian." It has its own grammar, structure, and vocabulary.Zyvarian Basics Alphabet & Sounds Zyvarian uses a phonetic script with 16 core sounds: A, E, I, O, U, K, T, S, M, R, L, D, V, Z, N, P Basic Grammar Rules
 
@@ -2143,3 +2143,216 @@ Here’s the same list in a tabular format:
 
 
 This table organizes the Zyvarian sentences, transliterations, and English translations for easy reference. Let me know if you'd like more phrases or any adjustments!
+
+**You**:  
+
+I found this very nice video that talks about conlang. https://youtu.be/_pKcwYaFnDk?si=r_pk7teTILBkrui1 can u use the do's and dont's the author suggest in this video for designing Zyvarian language?
+
+**ChatGPT**:  
+
+I can't watch videos directly, but if you summarize the key points from the video (especially the do’s and don’ts), I can definitely apply them to Zyvarian’s design! Alternatively, if the video has a transcript available, you can share that, and I’ll extract the relevant principles myself. Let me know how you’d like to proceed!
+
+**You**:  
+
+Here is a transcript of the video: 
+          00:00
+          David Peterson's best known for his work making conlangs for film and television for example he created the forest language for the 100. at the same time also take 12. the dark elves language and Thor the Dark World and a grand total of seven languages for Game of Thrones [Music] I think the story of his first conlang is fascinating see during college he created Meg Debbie it was intended as a secret language for himself and his partner at the time Megan which is where its name comes from mcdevie didn't quite
+
+          
+          00:41
+          go as planned though and Peterson ultimately abandoned the conline magdevi is a bit intimidating with its linguistic rules that in Peterson's own words were added without a thought to how it would change what he'd done before or what would come that's not to say they're bad rules just they didn't always work together he just kind of made things up as he wrote which I'm sure a few of you can relate to I get the same sense from the phonology which Peterson himself puts in scare quotes there's a lot of consonants and vowels
+
+          
+          01:13
+          here some natural languages have more than this it's got nothing on top but every single one is a phoneme which means you have to pronounce every single letter let's take a look at an example this is megdevi's word for lizard colored no I I don't know what that means just try saying it aloud and remember that you have to pronounce every letter so I guess it's a bit bit it's a bit Maybe you get the point the way Meg Devi constructs its words is formulaic it looks intimidating but it's not too bad
+
+          
+          01:52
+          if you can learn the formulas there's actually some interesting stuff here for example if you take the verb to bite you only need to change the structure of the formula to change the tense or the object you can see there's a consistent set of consonants that relates to biting which gets plugged into these different forms finally there is no required way to structure nouns verbs adverbs Etc Peterson uses this example to illustrate how challenging that can be which translates to a man quickly give a book
+
+          
+          02:27
+          to a girl on the grass that sentence can be constructed in 720 ways before you factor in free word order once you do that despite the fact that each version is supposed to mean the same thing this one translates to a girl gave a book to a man on the grass that's literally the opposite of what we're trying to say there are some neat ideas in Meg Devi but clearly there are a few Kinks too could they be fixed yeah probably Peterson is one of the best in the business I think if he wanted to fix the
+
+          
+          03:03
+          issues in mcdevy he probably could but the issue isn't so much with the phonology or sentences though that is part of it the main problem is that the language never met Peterson's goals there are three major types of conlangs and each has a very specific goal art Langs are what we talk about most on this show they're made too deep in our world building or to explore a fun concept like when a dick which asks what would polish be like if the Romans had conquered Poland oxlangs help people communicate across
+
+          
+          03:36
+          cultures for example Esperanto which inspired Meg Devi is probably the most well spoken oxland it was created to be a universal second language helping people communicate across the world endlings are more logical working toward a very specific purpose for example loglin was created to test the sapier war hypothesis the idea that the structure of a human language sets limits on the thinking of those who speak it to hear Peterson discuss macdevy he doesn't find that it really meets any of these goals it was too
+
+          
+          04:16
+          structured to be on our lane too bizarre to be an oxlang and it wasn't trying to test a linguistic problem like angelings did and because of the formulaic nature of it mcdevy was too easy to learn to be a secret language which is what he made it for in the first place so it ended up being a personal language something just for him the Creator passion project except Peterson grew to hate Meg Daddy he found that he added phonetics and rules not because he wanted them because he felt like he had to because other
+
+          
+          04:46
+          languages use them he ended up with some sounds he didn't like but he used him anyway because they were there and that only made the language sound worse or become more confusing at a certain point if he didn't like his personal language what was he making it for as interesting as the story of Meg Devi is I'll bet none of you are too Keen to experience any of that firsthand so how do you avoid this situation with your confidence first have a clear goal ideally before you even start understand what you're creating a language for
+
+          
+          05:20
+          if you're making an art Lang because I assume you're all writing about elves of some kind consider how the culture that speaks it would use it as well as the needs of your story a large be intentional while you're creating your Conlan avoid adding things just because you feel like they should be in the language if you try to do too much you'll end up with a kitchen sink problem where your language has a little bit of everything and at a certain point it just becomes convoluted and reassess as you go
+
+          
+          05:53
+          if you do find that your language isn't meeting its goals try to figure out why sooner rather than later once you do that you can address the problem or abandon the project and go on to a new one with a better sense for what works in the end Peterson may have abandoned my Debbie but he kept the writing system to use as a kind of personal Cipher mcdevy contains all the sounds English uses so it's entirely possible to write in the English language using the Meg Devi script so it's kind of come full
+
+          
+          06:26
+          circle and regained an element of being a secret language anyone can learn from Peterson his first attempt was rough but he persevered and now he con Langs for a living if mysterious squid aliens were sent down to Earth today Peterson is my first pick for communicating with them thanks for watching
+
+**ChatGPT**:  
+
+Thank you for sharing the transcript! Based on the advice from David Peterson, here are some key do's and don'ts we can apply to the design of the Zyvarian language:
+
+### Do's: 
+ 
+1. **Have a Clear Goal:** 
+  - Zyvarian should have a clear purpose. Whether it's meant to be a functional language for communication, a language for personal expression, or a language for world-building, we should define its core goal.
+ 
+2. **Be Intentional:** 
+  - Every aspect of the language (grammar, syntax, phonology, etc.) should serve the overall goal. Avoid adding features just because they "seem necessary" or because they exist in other languages.
+ 
+3. **Reassess as You Go:** 
+  - As the language develops, it's important to revisit and refine its components. This ensures that the language remains consistent and that changes made early on still make sense with the larger vision.
+ 
+4. **Avoid Convoluting the Language:** 
+  - Don’t overcomplicate the language by trying to incorporate too many features. Instead of aiming to include everything, it’s better to focus on the core elements that matter most.
+ 
+5. **Structure the Language Around the Culture:** 
+  - Consider the culture and people who would speak Zyvarian. What are their needs, and how do those needs shape the way they communicate? For instance, if they have a hierarchical society, the language may have specific formal and informal forms.
+
+### Don'ts: 
+ 
+1. **Don’t Add Things Just Because They Should Be There:** 
+  - Avoid unnecessary complexity. For example, you don't have to create irregular verb conjugations unless there's a reason for them in the culture or purpose of the language.
+ 
+2. **Don’t Try to Do Too Much:** 
+  - Keep the language focused. If Zyvarian is to be used for both regular conversation and as a programming language, it needs to be simple and clean to ensure it can be practical for both. We can always expand later if necessary.
+ 
+3. **Avoid a "Kitchen Sink" Problem:** 
+  - This happens when a language starts incorporating too many different elements without a cohesive structure. This will make it hard to learn and use, especially for non-native speakers.
+ 
+4. **Don’t Let the Language Become Overly Formulaic:** 
+  - Like Megdevi, Zyvarian shouldn’t fall into a pattern where it’s too rigid or intimidating to use in day-to-day communication. The goal should be to create something fluid and natural while maintaining uniqueness.
+
+### Applying These to Zyvarian: 
+ 
+- **Clear Goal** : Zyvarian is meant to be a unique, easy-to-learn language for both humans and computers, with a focus on simplicity and practical usage in conversation and programming.
+ 
+- **Intentional Design** : Each aspect of Zyvarian will serve a specific purpose, whether it's phonology, grammar, or syntax, and we will avoid adding things just for the sake of complexity.
+ 
+- **Cultural Influence** : The Zyvarian culture (if one exists) could be reflected in how the language handles politeness, formality, and hierarchy. For instance, maybe certain phrases change depending on the relationship between the speakers.
+ 
+- **Reassessing and Refining** : We’ll continue refining the grammar, syntax, and vocabulary to ensure consistency and avoid overly convoluted rules.
+ 
+- **Simplicity in Structure** : The language will avoid irregularities unless there’s a functional reason for them, and we’ll strive for a logical, user-friendly approach to verb conjugations and sentence structure.
+
+This approach should help guide the development of Zyvarian in a more structured, functional way that avoids the pitfalls of overcomplication or inconsistency. Does this direction align with your vision?
+
+**You**:  
+
+what would you say the phonology  of zyvarian is ?
+
+**ChatGPT**:  
+
+The phonology of Zyvarian (the sound system) should align with the language’s goal of being easy to learn, smooth to pronounce, and functional for both human communication and computer usage. Based on that, here's a proposed phonology that maintains simplicity while giving it a distinct sound:
+
+### Zyvarian Phonology Overview 
+ 
+1. **Vowels:**  
+  - **A**  as in "father" (open, low)
+ 
+  - **E**  as in "bed" (mid, front)
+ 
+  - **I**  as in "machine" (high, front)
+ 
+  - **O**  as in "go" (mid, back)
+ 
+  - **U**  as in "rule" (high, back)
+
+These vowels cover most of the basic vowel sounds in human languages and are easy to pronounce without complex mouth shapes.
+ 
+2. **Consonants:**  
+  - **K**  as in "cat" (voiceless velar stop)
+ 
+  - **T**  as in "top" (voiceless alveolar stop)
+ 
+  - **S**  as in "sun" (voiceless alveolar fricative)
+ 
+  - **M**  as in "man" (nasal bilabial)
+ 
+  - **R**  as in "run" (alveolar liquid, rolled or tapped)
+ 
+  - **L**  as in "look" (alveolar lateral)
+ 
+  - **D**  as in "dog" (voiced alveolar stop)
+ 
+  - **V**  as in "van" (voiced labiodental fricative)
+ 
+  - **Z**  as in "zebra" (voiced alveolar fricative)
+ 
+  - **N**  as in "net" (nasal alveolar)
+ 
+  - **P**  as in "pat" (voiceless bilabial stop)
+ 
+  - **B**  as in "bat" (voiced bilabial stop)
+ 
+  - **H**  as in "house" (voiceless glottal fricative)
+These consonants are fairly common across languages, making Zyvarian easy to pronounce, with a few notable fricatives like **V**  and **Z**  adding some character.
+ 
+3. **Diphthongs:**  
+  - **AI**  as in "high" (a glide from **A**  to **I** )
+ 
+  - **OU**  as in "out" (a glide from **O**  to **U** )
+ 
+  - **EI**  as in "rein" (a glide from **E**  to **I** )
+
+These diphthongs help smooth transitions between sounds and make the language sound more fluid.
+ 
+4. **Syllable Structure:** 
+  - Zyvarian follows a simple consonant-vowel (CV) or consonant-vowel-consonant (CVC) structure for syllables, which makes it easy to pronounce and more musical.
+ 
+  - Common syllables: **Ka, Ti, Zo, La, Mi, Nu, Ro, Ve, Si**
+ 
+5. **Stress Pattern:**  
+  - The stress tends to fall on the **first syllable**  of the word, making it easier to predict and pronounce without much effort, which is important for language learners.
+ 
+6. **Phonetic Features:** 
+  - The phonology avoids overly complex consonant clusters, tonality, or nasalization unless culturally significant. This ensures it remains straightforward for both verbal and computational use.
+
+### Summary of Zyvarian Phonology: 
+ 
+- **Vowels:**  A, E, I, O, U (clear, simple)
+ 
+- **Consonants:**  K, T, S, M, R, L, D, V, Z, N, P, B, H (simple, minimal but expressive)
+ 
+- **Diphthongs:**  AI, OU, EI (adding fluidity)
+ 
+- **Syllable Structure:**  CV, CVC (simple and fluid)
+ 
+- **Stress Pattern:**  Primary stress on the first syllable (predictable)
+This phonology is designed to be both **easy to pronounce**  for humans and **efficient for computers**  to process. Would you like to make any changes or adjustments to this system?
+
+**You**:  
+
+Which of the three major types of conlangs does Zyvarian belong too?
+
+**ChatGPT**:  
+
+Zyvarian would primarily belong to the **Art Lang**  category, with a secondary influence from **Auxlang**  elements. Let me explain why:**1. Art Lang (Artistic Language)**  
+- **Purpose:**  The primary goal of Zyvarian is to serve as an artistic and creative project, designed for world-building, personal expression, and exploration of linguistic ideas. This aligns with the core goal of Art Langs.
+ 
+- **Unique Characteristics:**  Zyvarian is a *constructed language* (conlang) meant to convey a sense of uniqueness and culture, fitting within an artistic framework where the focus is on beauty, expressiveness, and structure. The design of the writing system, phonology, grammar, and vocabulary is all aimed at creating something aesthetically pleasing and functional for creative use, which is a hallmark of Art Langs.
+ 
+- **Cultural Depth:**  It can be tied to a fictional or theoretical culture, which is common for Art Langs. This allows Zyvarian to explore the relationship between language and culture, much like Tolkien's Elvish or Dothraki in *Game of Thrones*.
+**2. Auxlang (Auxiliary Language)**  (Secondary Influence) 
+- **Purpose:**  While Zyvarian is mainly an artistic language, its goal to be easy to learn and suitable for communication does bring in a slight influence from Auxiliary Languages. Auxlangs, like Esperanto, are designed for global communication across cultures. In Zyvarian’s case, the simplicity of its phonology and structure suggests that it could also serve as a useful auxiliary language for communication between people, though this is not its primary goal.
+ 
+- **Intended Accessibility:**  The emphasis on easy learning, logical structure, and universal appeal makes Zyvarian capable of serving as a simplified communication tool if needed.
+Why it doesn't belong to **Englang** : 
+- **Englangs**  (Engineered Languages) are designed for highly specific functional purposes, like testing hypotheses or solving a linguistic problem (e.g., *Lojban* for formal logic). Zyvarian is not purely functional or experimental in this way; it is designed more for creative expression, making it an Art Lang first and foremost.
+
+### Conclusion: 
+Zyvarian fits primarily as an **Art Lang** , with a secondary possibility of functioning as an **Auxlang**  depending on how it evolves over time. The focus remains on creativity and artistic expression, with functionality being a secondary consideration. Does that feel right to you, or would you like to refine its focus?
