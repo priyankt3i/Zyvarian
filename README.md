@@ -2103,3 +2103,43 @@ Transliteration: Ka mira vinu zin?
 
 These sentences can be used in everyday situations, and the transliterations will make it easier for you to start understanding and speaking Zyvarian. Let me know if you need more examples or further refinements!
 
+**You**: 
+
+Can you show this i Tabular format?
+
+**ChatGPT**: 
+
+Here’s the same list in a tabular format:
+| Zyvarian Sentence | Transliteration | English Translation | 
+| --- | --- | --- | 
+| 𐓰𐓣𐓪𐓮! 𐓪𐓣𐓘 𐓷𐓘? | Zalira! Kasa tira? | Hello! How are you? | 
+| 𐓘𐓦𐓪, 𐓪𐓷𐓘. | Mira hera, kira. | I am fine, thank you. | 
+| 𐓷𐓘 𐓣𐓘𐓦𐓷𐓘? | Ka tira namu? | What is your name? | 
+| 𐓘𐓦𐓪 𐓣𐓘𐓦𐓷𐓘. | Mira namu Mira. | My name is Mira. | 
+| 𐓪𐓣𐓘 𐓻𐓘𐓣𐓪 𐓘𐓦𐓷𐓘? | Kasa luina zira? | How is the weather today? | 
+| 𐓴𐓘𐓡𐓷 𐓻𐓘𐓣𐓪. | Tuna zira. | It is sunny today. | 
+| 𐓘𐓦𐓪 𐓻𐓘𐓣𐓪. | Mira luika. | I’m hungry. | 
+| 𐓦𐓘 𐓷𐓘𐓡𐓷 𐓿𐓘𐓪? | Ka tira luika zina? | Do you want some food? | 
+| 𐓘𐓦, 𐓘𐓦𐓪 𐓷𐓘𐓡𐓷. | Ena, mira zare luika. | Yes, I would love some. | 
+| 𐓪𐓷𐓘! | Kira! | Thank you! | 
+| 𐓷𐓘𐓻𐓘𐓡𐓷. | Tira leza. | You’re welcome. | 
+| 𐓪𐓣𐓘 𐓧𐓘𐓡𐓷𐓘𐓡? | Ka tira zara leza? | Where is the bathroom? | 
+| 𐓘𐓦𐓪 𐓧𐓘𐓡𐓷𐓘𐓡. | Mira zan ka zara leza. | I need to go to the bathroom. | 
+| 𐓪𐓣𐓘 𐓪𐓣𐓘𐓷𐓘𐓡? | Kasa fira zena? | How much does this cost? | 
+| 𐓘𐓦𐓪 𐓘𐓡𐓷𐓘𐓡. | Mira no hiri. | I don’t understand. | 
+| 𐓪𐓣𐓘 𐓧𐓘𐓶 𐓘𐓦𐓪𐓡𐓷? | Ka tira hiri mira? | Can you help me? | 
+| 𐓦𐓘𐓷𐓘 𐓾𐓘𐓡𐓷. | Hara tera. | Please slow down. | 
+| 𐓘𐓦𐓪 𐓷𐓘𐓡𐓷. | Mira roka. | I am tired. | 
+| 𐓷𐓘 𐓪𐓣𐓘𐓡𐓷𐓘𐓡? | Ka tira vinu? | Where are you from? | 
+| 𐓘𐓦𐓪 𐓷𐓘 𐓿𐓘𐓦 Zyv. | Mira vinu Zyv. | I am from Zyv. | 
+| 𐓯𐓘𐓬𐓷. | Zina kara. | Good night. | 
+| 𐓦𐓘𐓻𐓘𐓡𐓷, 𐓲𐓘𐓾𐓘. | Kurina, kajira. | Goodbye, see you later. | 
+| 𐓘𐓦𐓪 𐓷𐓘𐓡𐓷 𐓷𐓘𐓡𐓷. | Mira tira zare zin. | I love you. | 
+| 𐓘𐓦𐓷𐓘 𐓷𐓘𐓡𐓷. | Sera zen. | It’s okay. | 
+| 𐓦𐓘 𐓿𐓘𐓦𐓷 𐓷𐓘𐓡𐓷? | Ka mira vinu zin? | Can I have some water? | 
+
+
+---
+
+
+This table organizes the Zyvarian sentences, transliterations, and English translations for easy reference. Let me know if you'd like more phrases or any adjustments!
