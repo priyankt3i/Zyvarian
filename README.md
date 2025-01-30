@@ -1234,7 +1234,9 @@ Great question! I'll assign unique **Zyvarian names**  to each numeral (0-9, A-F
 - **Distinct from one another**
  
 - **Consistent with the overall linguistic feel of Zyvarian**
-Here's the table with **Zyvarian numerals, their English equivalents, and their names in Zyvarian** :| English | Zyvarian Symbol | Zyvarian Name | Pronunciation | 
+Here's the table with **Zyvarian numerals, their English equivalents, and their names in Zyvarian** :
+
+| English | Zyvarian Symbol | Zyvarian Name | Pronunciation | 
 | --- | --- | --- | --- | 
 | 0 | ○ | zul | /zuːl/ | 
 | 1 | │ | vek | /vɛk/ | 
