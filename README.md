@@ -2,7 +2,7 @@
 
 **You**: 
 
-Can u invent a new language?
+ Can u invent a new language?
 
 **ChatGPT**: 
 
