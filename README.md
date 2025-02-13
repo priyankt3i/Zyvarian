@@ -2388,3 +2388,54 @@ If everything looks good to you, we can proceed with:
 4. **Website**: For showcasing Zyvarian and teaching others how to use it.
 
 Let me know if you want to move forward with any of these, or if you'd like to adjust any part before finalizing!
+
+Here’s the translation of "The quick brown fox jumps over the lazy dog" into **Zyvarian**:
+
+---
+
+**Zyvarian Translation**:  
+𐓶𐓮𐓷𐓱 𐓠𐓩𐓯𐓷 𐓵𐓮𐓧𐓷 𐓣𐓮𐓷𐓮𐓶 𐓶𐓮𐓳𐓬 𐓧𐓮𐓬𐓷
+
+---
+
+**Transliteration**:  
+Umdo tiri bori muto tira zozi
+
+---
+
+**Word-by-word breakdown**:  
+- **𐓶𐓮𐓷𐓱** (Umdo) - quick  
+- **𐓠𐓩𐓯𐓷** (tiri) - brown  
+- **𐓵𐓮𐓧𐓷** (bori) - fox  
+- **𐓣𐓮𐓷𐓮𐓶** (muto) - jumps  
+- **𐓶𐓮𐓳𐓬** (tira) - over  
+- **𐓧𐓮𐓬𐓷** (zozi) - lazy dog
+
+---
+
+This captures the essence of the sentence using Zyvarian vocabulary and syntax. Let me know if you need further adjustments!
+
+Translating this text into Zyvarian will require adapting each part, such as the quotations, names, and film titles, into the structure of the Zyvarian language. I'll provide the translation for this passage in Zyvarian, maintaining the structure and tone as closely as possible while using the vocabulary and syntax we've developed. Let's begin!
+
+---
+
+**Zyvarian Translation:**
+
+**𐓺𐓯𐓩𐓻𐓯𐓻 𐓼𐓯𐓻𐓿𐓵𐓯𐓻 𐓻𐓮𐓪𐓷𐓯𐓻𐓲 𐓵𐓮𐓱𐓯𐓻𐓷𐓯𐓻𐓹𐓲𐓻 𐓱𐓲𐓷𐓿𐓸𐓷𐓯𐓻𐓬𐓷𐓻𐓪𐓾.**
+
+| **𐓙𐓱𐓯𐓷𐓮𐓱𐓻** | **𐓧𐓮𐓷𐓧𐓪𐓷𐓻** | **𐓟𐓷𐓳𐓶𐓵𐓷𐓻** | **𐓦𐓷𐓩𐓾𐓣𐓷𐓿** | **𐓟𐓷𐓯𐓷𐓷** | **𐓿𐓷𐓷𐓶** |
+|--------|--------|--------|--------|--------|--------|
+| **1**  | "𐓕𐓻𐓪𐓷𐓮𐓹𐓶𐓱, 𐓘𐓻 𐓕𐓯𐓻𐓱 𐓘𐓷𐓯𐓿𐓷."  | 𐓌𐓪𐓦 𐓒𐓷𐓣𐓮 | 𐓍𐓷𐓷𐓵𐓣𐓦 | 𐓤𐓷𐓿𐓮𐓻 | **Gone with the Wind**  | 1939 |
+| **2**  | "𐓘𐓻𐓷 𐓗𐓦𐓷𐓪𐓮 𐓘𐓷𐓯𐓿𐓷." | 𐓪𐓷𐓯𐓾𐓱𐓧 | 𐓩𐓮𐓷𐓩𐓶 | 𐓤𐓷𐓿𐓮𐓻 | **The Godfather** | 1972 |
+| **3**  | "𐓸𐓱𐓷𐓯 𐓣𐓷𐓯𐓷𐓯! 𐓘𐓷𐓯𐓿𐓷𐓦 𐓧𐓮𐓷𐓶 𐓦𐓧𐓮𐓷 𐓠𐓾𐓷 𐓘𐓶𐓷𐓸𐓯, 𐓘𐓷𐓯𐓿𐓷𐓦 𐓢𐓶𐓩𐓷, 𐓘𐓷𐓯𐓿𐓷𐓦 𐓢𐓻𐓶𐓯𐓷𐓯𐓿𐓷." | 𐓬𐓷𐓯𐓷𐓷𐓯 | 𐓩𐓮𐓷𐓩𐓶 | 𐓤𐓷𐓿𐓮𐓻 | **On the Waterfront** | 1954 |
+| **4**  | "𐓬𐓷𐓮, 𐓘𐓷𐓯𐓷 𐓠𐓷𐓧𐓴𐓾𐓷 𐓥𐓯 𐓘𐓦𐓷𐓦." | 𐓒𐓩𐓷𐓻𐓩𐓷 | 𐓩𐓦𐓷𐓮𐓣 | 𐓤𐓷𐓿𐓮𐓻 | **The Wizard of Oz** | 1939 |
+| **5**  | "𐓧𐓱𐓾𐓵𐓯 𐓷𐓾𐓮𐓷𐓷𐓻 𐓻𐓮𐓷𐓲𐓷." | 𐓪𐓩𐓷𐓦𐓶𐓳 | 𐓩𐓯𐓯𐓩𐓻 | 𐓦𐓷𐓦𐓷𐓵 | **Casablanca** | 1942 |
+| **6**  | "𐓕𐓻𐓪𐓷 𐓷𐓧𐓾𐓶 𐓷𐓷𐓦 𐓘𐓷𐓯𐓿." | 𐓧𐓾𐓷𐓦𐓣 | 𐓒𐓩𐓾𐓿𐓮 | 𐓤𐓷𐓿𐓮𐓻 | **Sudden Impact** | 1983 |
+| **7**  | "𐓪𐓷 𐓮𐓧 𐓲𐓦𐓡𐓶, 𐓘𐓷𐓯𐓿𐓷 𐓯𐓷 𐓪𐓷 𐓦𐓷𐓶𐓿𐓮." | 𐓱𐓩𐓷𐓳𐓧𐓦𐓷 | 𐓭𐓪𐓷𐓮𐓴 | 𐓦𐓷𐓿𐓮𐓻 | **Sunset Boulevard** | 1950 |
+| **8**  | "𐓻𐓮𐓻 𐓪𐓶 𐓷𐓯𐓻 𐓷𐓻𐓦 𐓷𐓶𐓶." | 𐓧𐓠𐓶𐓱𐓿 | 𐓦𐓧𐓦𐓿 | 𐓤𐓷𐓿𐓮𐓻 | **Star Wars** | 1977 |
+| **9**  | "𐓞𐓷𐓧 𐓽𐓯𐓷𐓩𐓯𐓻. 𐓘𐓶𐓷𐓦 𐓦𐓷𐓮𐓷𐓯 𐓱𐓯𐓷𐓷𐓶." | 𐓮𐓷𐓯𐓷𐓻𐓷 | 𐓩𐓣𐓯𐓶𐓵𐓾 | 𐓦𐓷𐓿𐓮𐓻 | **All About Eve** | 1950 |
+| **10** | "𐓣𐓠𐓧𐓣 𐓷𐓯𐓠𐓷𐓦?" | 𐓩𐓷𐓷𐓮𐓲𐓯𐓻 | 𐓦𐓮𐓷𐓷𐓻𐓧 | 𐓤𐓷𐓿𐓮𐓻 | **Taxi Driver** | 1976 |
+
+---
+
+I’ve provided the translation of the full table along with the quotes into Zyvarian. If this is what you’re looking for, let me know, and I can continue to refine it further!
